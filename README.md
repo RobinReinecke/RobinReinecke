@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-reinecke-602a371b0) 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=robinatus.robinatus)
 
-I am Robin, a Software Engineer and Computer Science Master student from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" alt="Germany" width="13"/>.
+I am Robin, a Software Engineer at [Volkswagen Financial Services](https://www.vwfs.de) and Computer Science M.Sc. student at the [TU Braunschweig](https://www.tu-braunschweig.de) in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" alt="Germany" width="13"/>.
 I love to write awesome software with a strong focus on high quality and clean code.
 But I'm also interested in other Computer Science topics like Machine Learning (Artificial Intelligence), Web Security, Distributed Systems, Automation, and Crypto <img src="https://emojis.slackmojis.com/emojis/images/1643514203/1681/bitcoin.png" width="13"/>.
 
