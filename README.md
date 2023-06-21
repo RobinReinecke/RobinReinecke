@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=robinreinecke.robinreinecke" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=RobinReinecke" alt="Visitor Count">
   <h2>
     Hi! Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
   </h2>
@@ -79,9 +79,9 @@ But I'm also interested in other Computer Science topics like Machine Learning (
 
 ### <img src="https://media.giphy.com/media/fxT9TYmgjBloBaLxL2/giphy.gif" width="40"/> My GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Robinatus&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Robinatus&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Robinatus&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RobinReinecke&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RobinReinecke&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinReinecke&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### <img src="https://media.giphy.com/media/muRCfzb9gwPDX95Fkn/giphy.gif" width="30"/> Random Dev Quote
 
