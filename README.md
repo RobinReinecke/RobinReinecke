@@ -13,7 +13,7 @@
 
 ---
 
-I am Robin, a Software Engineer at [Volkswagen Financial Services](https://www.vwfs.de) and a Computer Science M.Sc. student at the [TU Braunschweig](https://www.tu-braunschweig.de) in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" alt="Germany" width="13"/>.
+I am Robin, a Software Engineer at [Volkswagen Financial Services](https://www.vwfs.de) in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" alt="Germany" width="13"/>.
 I love to write awesome software with a strong focus on high-quality and clean code.
 But I'm also interested in other Computer Science topics like Machine Learning (Artificial Intelligence), Web Security, Distributed Systems, Automation, and Crypto <img src="https://emojis.slackmojis.com/emojis/images/1643514203/1681/bitcoin.png" width="13"/>.
 
